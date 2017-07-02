@@ -1,3 +1,5 @@
+//Adapted from http://joeyday.com/2015/03/02/integrating-servicenow-with-slack/
+
 (function executeRule(current, previous /*null when async*/) {
 
 	var teams = new TeamsMessageCard();
